@@ -1,0 +1,18 @@
+    for k in list(lengths[6][0]):
+        for letters 
+        kl = False
+        km = False
+        for l in list(lengths[6][1]):
+            if k == l: kl = True
+        for m in list(lengths[6][2]):
+            if k == m: km = True
+        if not kl: 
+            cde.append(k) 
+        if not km:
+            cde.append(k)
+    for k in list(lengths[6][1]):
+        kl = False
+        for l in list(lengths[6][2]):
+            if k==l: kl = True
+        if not kl:
+            cde.append(k)
